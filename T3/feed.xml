@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:8632EA44-380C-425B-9F30-2890B69AB0E6</id>
+ <title>Page list Atom feed</title>
+ <updated>2012-08-03T21:10:15+03:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:DA71ADAF-C562-4BC1-A585-C835F805309C</id>
+  <title>services_s/o_p.2</title>
+  <title xmlns="urn:iweb:">services_s/o_p.2</title>
+  <in-navbar xmlns="urn:iweb:">DA71ADAF-C562-4BC1-A585-C835F805309C</in-navbar>
+  <link rel="alternate" href="services_s_o_p.2.html"/>
+  <updated>2012-08-03T21:10:15.001+03:00</updated>
+  <content>services_s/o_p.2</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:5FFA7DEF-8527-467A-9121-2ACFB90D8AC8</id>
+  <title>services_arbitaries</title>
+  <title xmlns="urn:iweb:">services_arbitaries</title>
+  <in-navbar xmlns="urn:iweb:">5FFA7DEF-8527-467A-9121-2ACFB90D8AC8</in-navbar>
+  <link rel="alternate" href="services_arbitaries.html"/>
+  <updated>2012-08-03T21:10:15.002+03:00</updated>
+  <content>services_arbitaries</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:6641252B-F787-47B2-B7F6-5C4ECBA36438</id>
+  <title>investments_a_nikokleous</title>
+  <title xmlns="urn:iweb:">investments_a_nikokleous</title>
+  <in-navbar xmlns="urn:iweb:">6641252B-F787-47B2-B7F6-5C4ECBA36438</in-navbar>
+  <link rel="alternate" href="investments_a_nikokleous.html"/>
+  <updated>2012-08-03T21:10:15.003+03:00</updated>
+  <content>investments_a_nikokleous</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:0AF183E2-3707-4B36-A23A-56A6B61AB80B</id>
+  <title>investments_a_old</title>
+  <title xmlns="urn:iweb:">investments_a_old</title>
+  <in-navbar xmlns="urn:iweb:">0AF183E2-3707-4B36-A23A-56A6B61AB80B</in-navbar>
+  <link rel="alternate" href="investments_a_old.html"/>
+  <updated>2012-08-03T21:10:15.004+03:00</updated>
+  <content>investments_a_old</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:B4C5E11F-1BD4-405D-B66C-0B0D5A6EB1DD</id>
+  <title>portfolio_nikokleous</title>
+  <title xmlns="urn:iweb:">portfolio_nikokleous</title>
+  <in-navbar xmlns="urn:iweb:">B4C5E11F-1BD4-405D-B66C-0B0D5A6EB1DD</in-navbar>
+  <link rel="alternate" href="portfolio_nikokleous.html"/>
+  <updated>2012-08-03T21:10:15.005+03:00</updated>
+  <content>portfolio_nikokleous</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:99825850-0D43-4D9A-A344-D6A36565AF77</id>
+  <title>links</title>
+  <title xmlns="urn:iweb:">links</title>
+  <in-navbar xmlns="urn:iweb:">99825850-0D43-4D9A-A344-D6A36565AF77</in-navbar>
+  <link rel="alternate" href="links.html"/>
+  <updated>2012-08-03T21:10:15.006+03:00</updated>
+  <content>links</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:A77D0708-C9B2-4FD2-A3F4-5556C7F7BF95</id>
+  <title>contact</title>
+  <title xmlns="urn:iweb:">contact</title>
+  <in-navbar xmlns="urn:iweb:">A77D0708-C9B2-4FD2-A3F4-5556C7F7BF95</in-navbar>
+  <link rel="alternate" href="contact.html"/>
+  <updated>2012-08-03T21:10:15.007+03:00</updated>
+  <content>contact</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:EC70EE1A-8F77-4CC7-AB87-209007F6B04A</id>
+  <title>terms</title>
+  <title xmlns="urn:iweb:">terms</title>
+  <in-navbar xmlns="urn:iweb:">EC70EE1A-8F77-4CC7-AB87-209007F6B04A</in-navbar>
+  <link rel="alternate" href="terms.html"/>
+  <updated>2012-08-03T21:10:15.008+03:00</updated>
+  <content>terms</content>
+ </entry>
+</feed>
